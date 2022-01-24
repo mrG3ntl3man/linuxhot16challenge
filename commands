@@ -1,4 +1,16 @@
 pwd - wyświetla lokalizację/ścieżkę, w której się obecnie znajdujemy. 
-cd - zmiana katalogu, np. cd /var/www - zmienia katalog na /var/www
-ls - listuje pliki w danym katalogu
-ls -la - listuje pliki w danym katalogu ze szczegółami
+cd - zmiana katalogu, np. cd /var/www - zmienia katalog na /var/www.
+ls - listuje pliki w danym katalogu.
+ls -la - listuje pliki w danym katalogu ze szczegółami.
+sudo - pozwala na wykonanie polecenia z uprawnieniami administratora.
+chown - zmienia właściciela pliku/katalogu.
+chgrp - zmienia grupę pliku/katalogu.
+chmod - zmienia uprawnienia dla poszczególnych grup.
+nano - edytor plików tekstowych.
+touch - tworzy plik, np. touch test.txt
+rm - kasuje plik, np. rm touch.txt
+cp - kopuje plik, np. cp touch.txt /lokalizacja/pliku /lokalizacja/docelowa
+man - wyświetla stronę manuala, np. man nano
+ssh - np. ssh root@ip_serwera
+su - komenda do przelogowania się jako inny użytkownik
+cat - wypisuje wszystkie podane mu pliki na standardowe wyjście
